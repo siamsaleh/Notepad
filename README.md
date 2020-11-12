@@ -1,6 +1,6 @@
 # Notepad
 
-I use local database to save data. You can save images, notes, url in this notepad.
+I use local database to save data. You can save images, notes, url in this notepad. You can also set color for indivisual notes.
 
 
 ![Capture2](https://user-images.githubusercontent.com/55757774/98920429-4c921c80-24fa-11eb-98bc-b447a9f76986.PNG)
